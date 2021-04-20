@@ -10,7 +10,7 @@ Kawani is an employee management application that would be beneficial to the peo
 
 ###### Environment setup for the project to run (step-by-step procedures or commands)
 -Have Android Studio installed 
--create a project with an SDF of API 19 
+-create a project with an SDK of API 19 
 -transfer the files in the src folder to the project
 -change the name of the package if necessary
 -run through an Android emulator that supports API 19 at bare minimum
