@@ -9,7 +9,11 @@ Kawani is an employee management application that would be beneficial to the peo
 - CameraX: a Jetpack support library that is made to help users make camera app development with ease. 
 
 ###### Environment setup for the project to run (step-by-step procedures or commands)
-
+-Have Android Studio installed 
+-create a project with an SDF of API 19 
+-transfer the files in the src folder to the project
+-change the name of the package if necessary
+-run through an Android emulator that supports API 19 at bare minimum
 
 
 ###### Revision logs and information about contributors
