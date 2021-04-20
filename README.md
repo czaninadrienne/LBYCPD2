@@ -15,6 +15,6 @@ Kawani is an employee management application that would be beneficial to the peo
 ###### Revision logs and information about contributors
 
 - The contributors are as follows:
-i. Dexter Balay
-ii. Czanina Tayamen
-iii. Myles Uy
+  - Dexter Balay
+  - Czanina Tayamen
+  - Myles Uy
